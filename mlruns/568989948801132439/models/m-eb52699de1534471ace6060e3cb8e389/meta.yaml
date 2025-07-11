@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/shekh/OneDrive/Desktop/MLOps/MLflow-exp-tracking/mlruns/568989948801132439/models/m-eb52699de1534471ace6060e3cb8e389/artifacts
+creation_timestamp: 1752265240301
+experiment_id: '568989948801132439'
+last_updated_timestamp: 1752265254058
+model_id: m-eb52699de1534471ace6060e3cb8e389
+model_type: null
+name: Random Forest Model
+source_run_id: 061ed350c2fa44709aae68b9da052133
+status: 2
+status_message: null

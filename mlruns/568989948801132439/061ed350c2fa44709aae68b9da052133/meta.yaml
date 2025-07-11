@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shekh/OneDrive/Desktop/MLOps/MLflow-exp-tracking/mlruns/568989948801132439/061ed350c2fa44709aae68b9da052133/artifacts
+end_time: 1752265254081
+entry_point_name: ''
+experiment_id: '568989948801132439'
+lifecycle_stage: active
+run_id: 061ed350c2fa44709aae68b9da052133
+run_name: unleashed-croc-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752265239251
+status: 3
+tags: []
+user_id: shekh
